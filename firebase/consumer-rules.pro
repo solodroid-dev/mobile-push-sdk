@@ -1,0 +1,2 @@
+-keep class com.solodroid.push.firebase.FirebasePushImpl { *; }
+-keep class com.solodroid.push.firebase.MyFirebaseMessagingService { *; }
