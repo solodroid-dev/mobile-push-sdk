@@ -1,4 +1,4 @@
-package com.app.mobileadssdk;
+package com.app.mobilepushsdk;
 
 import android.os.Bundle;
 
